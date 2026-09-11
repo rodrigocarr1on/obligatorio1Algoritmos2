@@ -8,7 +8,13 @@
 > con comentarios en el código fuente. La omisión de fuentes puede considerarse plagio.
 
 ## Ejercicio 1
-- Implementación íntegramente propia, sin fuentes externas.
+- IA:
+-long long + stoll (gemini y chatGPT)
+-lectura de entradas en main.(chatGPT) 
+
+-Clase:
+-AVL tad: Obtenido del material dado en clase por los profesores de practico.
+
 
 ## Ejercicio 2
 - Implementación íntegramente propia, sin fuentes externas.
