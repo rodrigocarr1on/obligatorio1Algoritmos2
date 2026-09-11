@@ -27,6 +27,8 @@ Aca me di cuenta que necesitaba una funcion auxiliar para buscar lo que me pasar
 --Funcion Rango--
 Para esta funcion comence tratando de razonar la forma de busqueda para cumplir con los ordenes solicitados, discutiendo con chatGPT mis ideas. Mientras discutia me di cuenta de la modalidad de recorrido in order, para verificar que funcionaria para la solucion que necesitaba, realice recorridos mentales para arboles creados por mi con numeros random y un rango.
 
+--Main + lectura de entradas--
+-Al final comence a pensar la logica de lectura e interpretacion de las entradas del usuario, consulte con chatGPT sobre mis dudas respecto a como leer una linea entera y diferenciar lo necesario segun el comando. Mi duda se debia a que no recordaba que se podia utilizar cin de esa manera, que aunque lo ponga en diferentes lineas, lo lee todo de una sola entrada. Al cuestionar sobre esa forma de trabajo y verificar que era valida comence el desarrollo de codigo por mi cuenta.
 
 ## AAAA-MM-DD — En conjunto
 - Ejemplo: Implementamos ... Bug: ... Lo corregimos ...
